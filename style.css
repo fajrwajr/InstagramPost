@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+
+img {
+   margin: 0 auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.container {
+    background-color: white;
+    width: 33.3%;
+    margin: 0 auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+}
+
+.fa-html5 {
+    margin-left: 10px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 11px;
+}
+
+.text {
+   margin-left: 4px;
+}
+
+div.post .post-header div:first-child {
+    display: inline-block;
+    width: 80%;
+}
+
+
+div.post .post-header div:last-child {
+    display: inline-block;
+    width: 18%;
+}
+
+.fa-ellipsis-v {
+    float: right;
+}
+
+.fa-bookmark-o {
+    float: right;
+    margin-right: 2px;
+}
